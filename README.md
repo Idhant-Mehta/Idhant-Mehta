@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **python and DSA**
 
-- 👯 I’m looking to collaborate on **c c++ python and html**
+- 👯 I can help in solving problem's in **c c++ python and html**
 
 - 📫 How to reach me **idhantmehta@gmail.com**
 
