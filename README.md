@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm idhant mehta</h1>
-<h3 align="center">A passionate devloper</h3>
+<h3 align="center">Just A learner /h3>
 
 - 🔭 I’m currently working on **python**
 
