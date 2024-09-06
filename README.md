@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Learner</h3>
 <p align="center">
 🔭 Currently working on <strong>Python</strong><br>
-🌱 Learning <strong>Python and Data Structures & Algorithms (DSA)</strong><br>
+🌱 Learning <strong>Python and Data Structures (DS)</strong><br>
 👯 Happy to help with <strong>C, C++, Python, and HTML</strong><br>
 📫 Reach me at: <a href="mailto:idhantmehta@gmail.com"><strong>idhantmehta@gmail.com</strong></a>
 </p>
