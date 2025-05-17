@@ -16,7 +16,7 @@
 
 | Programming | Libraries | Tools | Platforms |
 |-------------|-----------|-------|-----------|
-| `C` `C++` `Python` `Java` | `scikit-learn` `PyTorch` `NumPy` `Pandas` | `VS Code` `Jupyter` |
+| `C` `C++` `Python`| `scikit-learn` `PyTorch` `NumPy` `Pandas` | `VS Code` `Jupyter` |
 
 ---
 
