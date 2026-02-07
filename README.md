@@ -15,7 +15,7 @@
 ### 👨‍💻 About Me
 
 - 🔭 Currently working on **Python projects** involving Machine Learning & Automation.
-- 🌱 Learning **Deep Learning** using **PyTorch**, **scikit-learn**, and **NLP** tools.
+- 🌱 Learning **Agentic AI** and **Gen AI** (Generative AI).
 - 👯 Looking to collaborate on **ML, AI, or robotics-based projects**.
 
 ---
