@@ -1,4 +1,4 @@
-```markdown
+
 <h1 align="center">Hi 👋, I'm Idhant Mehta</h1>
 
 <h3 align="center">
@@ -191,4 +191,4 @@ Developing robotics applications using ROS with simulation and autonomous naviga
 <p align="center">
 ⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me. I'm always excited to collaborate on AI, Robotics, and Machine Learning projects.
 </p>
-```
+
