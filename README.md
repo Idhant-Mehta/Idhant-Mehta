@@ -1,29 +1,194 @@
+```markdown
 <h1 align="center">Hi 👋, I'm Idhant Mehta</h1>
-<h3 align="center">🚀 Robotics & AI Enthusiast | Passionate Python Developer | Learner</h3>
+
+<h3 align="center">
+🤖 Robotics & AI Undergraduate | Python Developer | Machine Learning Enthusiast
+</h3>
 
 <p align="center">
   <a href="mailto:idhantmehta@gmail.com">
-    <img src="https://img.shields.io/badge/Email-idhantmehta%40gmail.com-red?style=flat-square&logo=gmail" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-idhantmehta%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/idhant-mehta-1645aa278/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Idhant-Mehta">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+# 👨‍💻 About Me
 
-- 🔭 Currently working on **Python projects** involving Machine Learning & Automation.
-- 🌱 Learning **Deep Learning** using **PyTorch**, **scikit-learn**, and **NLP** tools.
-- 👯 Looking to collaborate on **ML, AI, or robotics-based projects**.
+🎓 Third-year **B.E. Robotics & Artificial Intelligence** student at **Thapar Institute of Engineering & Technology**.
+
+I enjoy building intelligent systems that combine **Machine Learning**, **Computer Vision**, **Robotics**, and **Automation** to solve real-world problems.
+
+- 🔭 Currently building **ROS-based Robotics Projects**
+- 🌱 Learning **MLOps**, **Deep Learning**, and **Model Deployment**
+- 🤖 Exploring **Computer Vision**, **NLP**, and intelligent robotic systems
+- 💻 Developing AI applications using **Python**, **PyTorch**, **FastAPI**, and modern ML tools
+- 🚀 Open to collaborating on **AI, ML, Robotics, Computer Vision, and Open Source** projects
+
+---
+
+# 🚀 Current Focus
+
+- 🤖 ROS (Robot Operating System)
+- ⚙️ MLOps & Machine Learning Deployment
+- 🧠 Deep Learning with PyTorch
+- 👁️ Computer Vision
+- ☁️ FastAPI for AI Applications
+- 📊 Machine Learning Projects
 
 ---
 
-### 🛠️ Languages & Tools
+# 🛠 Tech Stack
 
-| **Programming** | **AI & ML Libraries** | **Tools & Platforms** |
-|:---:|:---:|:---:|
-| ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) <br> ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) <br> ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=black) ![Seaborn](https://img.shields.io/badge/Seaborn-233056?style=for-the-badge&logo=seaborn&logoColor=white) | ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white) <br> ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=green&labelColor=green) ![DataSpell](https://img.shields.io/badge/DataSpell-000000.svg?style=for-the-badge&logo=DataSpell&logoColor=white) |
+## 💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,bash" />
+</p>
 
 ---
+
+## 🤖 Artificial Intelligence & Machine Learning
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+
+<br>
+
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/XGBoost-0066CC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 📊 Data Science
+
+<p>
+
+<img src="https://img.shields.io/badge/Data%20Analysis-4285F4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Visualization-EA4335?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Feature%20Engineering-34A853?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Model%20Evaluation-FF9800?style=for-the-badge"/>
+
+</p>
+
+---
+
+## ⚙️ MLOps & Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux" />
+
+<br>
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+
+</p>
+
+---
+
+## 🤖 Robotics
+
+<p>
+
+<img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gazebo-4E4E4E?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 🛠 Development Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=vscode,pycharm,git,github,linux" />
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### 🧠 NeuroBridge
+A Brain-Computer Interface (BCI) system that uses EEG signals to enable motor-impaired individuals to interact with smart devices.
+
+### 💳 Credit Card Fraud Detection
+Machine Learning pipeline using Logistic Regression, Random Forest, and XGBoost for fraud detection.
+
+### 💻 CampusCode
+An online coding assessment platform built with React, FastAPI, PostgreSQL, Docker, and JWT Authentication.
+
+### 🤖 ROS Robotics Projects
+Developing robotics applications using ROS with simulation and autonomous navigation.
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Idhant-Mehta&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Idhant-Mehta&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Idhant-Mehta&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+# 🏆 GitHub Activity
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Idhant-Mehta&theme=tokyonight&margin-w=10&margin-h=10"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Idhant-Mehta&theme=tokyo-night"/>
+</p>
+
+---
+
+# 🌱 Currently Exploring
+
+- ROS 2
+- Gazebo Simulation
+- MLOps
+- Docker for ML Deployment
+- Deep Learning
+- Computer Vision
+- FastAPI
+- Model Serving
+- Reinforcement Learning (Next)
+
+---
+
+# 📫 Connect With Me
+
+- 📧 Email: **idhantmehta@gmail.com**
+- 💼 LinkedIn: **www.linkedin.com/in/idhant-mehta-1645aa278**
+- 💻 GitHub: **github.com/Idhant-Mehta**
+
+---
+
+<p align="center">
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me. I'm always excited to collaborate on AI, Robotics, and Machine Learning projects.
+</p>
+```
