@@ -1,183 +1,139 @@
 <div align="center">
 
-<!-- Hero Banner / Typing Animation -->
 <a href="https://github.com/Idhant-Mehta">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Idhant+Mehta;Robotics+%26+Artificial+Intelligence+Engineer;Building+Autonomous+Robotics+%26+ROS+2+Systems;Computer+Vision+%26+Deep+Learning+Practitioner;Generative+AI+%26+LLM+Application+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Idhant+Mehta;Robotics+%26+Artificial+Intelligence+Engineer;Machine+Learning+%26+Deep+Learning+Enthusiast;Computer+Vision+%26+Generative+AI+Developer;Building+Intelligent+%26+Autonomous+Systems" alt="Typing SVG" />
 </a>
 
 <p align="center">
-  <b>B.E. Robotics & AI Undergrad @ Thapar Institute of Engineering & Technology</b>
+  <b>B.E. Robotics & Artificial Intelligence @ Thapar Institute of Engineering & Technology</b>
 </p>
 
-<!-- Social & Quick Action Badges -->
 <p align="center">
   <a href="mailto:idhantmehta@gmail.com">
-    <img src="https://img.shields.io/badge/Email-idhantmehta%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/idhant-mehta-1645aa278/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/Idhant-Mehta" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://komarev.com/ghpvc/?username=Idhant-Mehta&color=38bdf8&style=for-the-badge&label=PROFILE+VIEWS">
-    <img src="https://komarev.com/ghpvc/?username=Idhant-Mehta&color=38bdf8&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-  </a>
-</p>
-
-</div>
-   ┌─────────┐      ┌─────────┐      ┌────────────┐      ┌──────────┐
-   │  Learn  │ ───> │  Build  │ ───> │ Experiment │ ───> │  Deploy  │
-   └─────────┘      └─────────┘      └────────────┘      └──────────┘
-
-- 🤖 **Autonomous Robotics**: Developing packages in **ROS / ROS 2**, Gazebo simulations, URDF robot modeling, and LiDAR-based navigation.
-- 👁️ **Computer Vision & Perception**: Building real-time object tracking, pose estimation, and video analytics with **YOLOv8**, **OpenCV**, and **MediaPipe**.
-- 🧠 **AI & Deep Learning**: Engineering robust classification, segmentation, and predictive pipelines with **PyTorch**, **scikit-learn**, and **NVIDIA RAPIDS**.
-- ⚡ **Generative AI & LLMs**: Creating automated evaluation agents, RAG workflows, and conversational tools with **LangChain**, **FAISS**, and **Google Gemini / Claude / Llama 3**.
-- 🚀 **Open Source Collaboration**: Actively open to working on robotics simulation, autonomous perception, and AI deployments.
-
----
-
-### 🛠️ Tech Stack & Tooling
-
-<div align="center">
-
-| Domain | Technologies & Frameworks |
-| :--- | :--- |
-| **Programming Languages** | <img src="https://skillicons.dev/icons?i=python,cpp,c,bash" /> |
-| **Robotics & Simulation** | <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white" /> <img src="https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white" /> <img src="https://img.shields.io/badge/Gazebo-4E4E4E?style=flat-square&logo=gazebo&logoColor=white" /> <img src="https://img.shields.io/badge/RViz-E25A1C?style=flat-square" /> <img src="https://img.shields.io/badge/URDF_Modeling-38BDF8?style=flat-square" /> <img src="https://img.shields.io/badge/LiDAR_SLAM-10B981?style=flat-square" /> |
-| **Computer Vision** | <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" /> <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=black" /> <img src="https://img.shields.io/badge/MediaPipe-00A4D3?style=flat-square" /> <img src="https://img.shields.io/badge/Object_Tracking-F59E0B?style=flat-square" /> |
-| **AI, ML & Deep Learning** | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" /> <br/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/XGBoost-0066CC?style=flat-square" /> <img src="https://img.shields.io/badge/NVIDIA_RAPIDS-76B900?style=flat-square&logo=nvidia&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" /> |
-| **Generative AI & LLMs** | <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" /> <img src="https://img.shields.io/badge/RAG_Pipelines-8B5CF6?style=flat-square" /> <img src="https://img.shields.io/badge/FAISS_Vector_DB-00599C?style=flat-square" /> <img src="https://img.shields.io/badge/Gemini_API-8E75C2?style=flat-square&logo=google&logoColor=white" /> <img src="https://img.shields.io/badge/Claude_API-D97706?style=flat-square&logo=anthropic&logoColor=white" /> <img src="https://img.shields.io/badge/Llama_3-0467DF?style=flat-square&logo=meta&logoColor=white" /> |
-| **Backend & Cloud Deployment** | <img src="https://skillicons.dev/icons?i=fastapi,postgres,docker,aws,git,github,linux" /> |
-
-</div>
-
----
-
-### 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🤖 ROS 2 Obstacle Avoidance Bot</h3>
-      <p align="center">
-        <a href="https://github.com/sparsh0106/ros2-obstacle-avoidance-bot">
-          <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-      <p>Autonomous mobile robot package developed for <b>Gazebo (Ignition/GZ)</b> executing a 3-phase LiDAR-driven obstacle avoidance controller with custom URDF kinematics and ROS-Gazebo sensor bridges.</p>
-      <p><b>Tech:</b> <code>ROS 2</code>, <code>Gazebo</code>, <code>Python</code>, <code>LiDAR / Scan</code>, <code>URDF</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🧠 Code-Grade</h3>
-      <p align="center">
-        <a href="https://github.com/Idhant-Mehta/Code-Grade">
-          <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-      <p>An AI-powered automated code evaluation engine that analyzes logic correctness, detects syntax and runtime bugs, and generates granular pedagogical feedback using LLM prompt engineering.</p>
-      <p><b>Tech:</b> <code>Python</code>, <code>LLMs</code>, <code>Prompt Engineering</code>, <code>Code Analysis</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">👁️ Vehicle Speed Detection System</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Status-Completed-10B981?style=for-the-badge" />
-      </p>
-      <p>Real-time computer vision pipeline tracking vehicles across video frames using <b>YOLO</b> and estimating vehicle velocity through calibrated pixel-to-metric motion analysis.</p>
-      <p><b>Tech:</b> <code>YOLOv8</code>, <code>OpenCV</code>, <code>Python</code>, <code>Object Tracking</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">✋ Volume Gesture Control</h3>
-      <p align="center">
-        <a href="https://github.com/Idhant-Mehta/volume-guesture-contol-">
-          <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-      <p>Touchless human-computer interaction system leveraging <b>MediaPipe Hand Landmarks</b> to adjust system audio volume smoothly based on real-time finger distance and gestures.</p>
-      <p><b>Tech:</b> <code>OpenCV</code>, <code>MediaPipe</code>, <code>Python</code>, <code>PyCaw</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">💳 Credit Card Fraud Detection</h3>
-      <p align="center">
-        <a href="https://github.com/Idhant-Mehta/credit-card-fraud-detection-">
-          <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-      <p>High-precision ML classification pipeline built to identify fraudulent banking transactions under severe class imbalance using SMOTE, Random Forest, and XGBoost with ROC-AUC tuning.</p>
-      <p><b>Tech:</b> <code>scikit-learn</code>, <code>XGBoost</code>, <code>Pandas</code>, <code>Imbalanced Learning</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🧠 NeuroBridge (BCI)</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Domain-Neurotechnology-8B5CF6?style=for-the-badge" />
-      </p>
-      <p>Brain-Computer Interface (BCI) system designed to decode EEG brain signals to enable motor-impaired individuals to interact with assistive robotics and smart peripherals.</p>
-      <p><b>Tech:</b> <code>Python</code>, <code>Signal Processing</code>, <code>EEG</code>, <code>Machine Learning</code></p>
-    </td>
-  </tr>
-</table>
-
----
-
-### 📊 GitHub Activity & Statistics
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Idhant-Mehta&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Idhant-Mehta&theme=tokyonight&hide_border=false" height="165" alt="Streak Stats" />
-
-  <br/><br/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Idhant-Mehta&layout=compact&theme=tokyonight&hide_border=false" height="165" alt="Top Languages" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Idhant-Mehta&theme=tokyonight&margin-w=10&margin-h=10&no-bg=false&no-frame=false" height="165" alt="Trophies" />
-
-  <br/><br/>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Idhant-Mehta&theme=tokyo-night&hide_border=false" width="95%" alt="Activity Graph" />
-
-</div>
-
----
-
-### 🎯 Current Exploration & Roadmap
-
-- [x] **ROS 2 & Gazebo**: LiDAR SLAM, Navigation2, and Robot State Publisher integration.
-- [x] **Computer Vision**: Real-time multi-object tracking with ByteTrack / DeepSORT + YOLOv8.
-- [/] **GPU-Accelerated ML**: Accelerating model training and ETL with **NVIDIA RAPIDS (cuDF, cuML)**.
-- [/] **Agentic & Multimodal RAG**: Building tool-calling agent systems with LangChain and vector databases.
-- [ ] **Reinforcement Learning**: Simulation-to-real (Sim2Real) robotic arm control and locomotion.
-
----
-
-### 📬 Connect With Me
-
-<div align="center">
-
-<p>
-  <a href="mailto:idhantmehta@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/idhant-mehta-1645aa278/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/Idhant-Mehta">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 
-<sub>⭐️ <i>"Learn, Build, Experiment, Deploy."</i> | Always open to collaborating on Robotics & AI projects!</sub>
 
 </div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a **Robotics & Artificial Intelligence Engineering student** interested in building intelligent systems using **Machine Learning, Deep Learning, Computer Vision, Generative AI, and Robotics**.
+
+I enjoy turning ideas into working systems — from training ML models and building computer vision pipelines to developing **ROS 2 robotic simulations** and AI-powered applications.
+
+Currently, I'm focused on strengthening my skills in **Machine Learning, Deep Learning, Computer Vision, Generative AI, and Autonomous Robotics**.
+
 
 
 ---
 
-### 👨‍💻 About Me
+## 🚀 What I Work On
 
-I am a passionate **Robotics and Artificial Intelligence Engineering** student focused on building intelligent systems that bridge the gap between machine learning research and real-world autonomous deployment.
+*   🤖 **Robotics & ROS 2** — Developing robotic simulations using ROS 2, Gazebo, URDF, RViz, LiDAR and navigation concepts.
+*   🧠 **Machine Learning** — Building classification, regression and predictive ML pipelines using scikit-learn and XGBoost.
+*   🔥 **Deep Learning** — Working with PyTorch and neural network architectures for computer vision and deep learning applications.
+*   👁️ **Computer Vision** — Developing real-time object detection, pose estimation, and vision systems using YOLO, OpenCV, and MediaPipe.
+*   ⚡ **Generative AI** — Exploring LLM applications, RAG pipelines, vector databases and AI agents.
+*   🚀 **AI Applications** — Interested in developing practical AI systems that solve real-world problems.
 
+---
+
+## 🛠️ Tech Stack
+
+**💻 Programming Languages**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+</p>
+
+**🤖 Robotics & Simulation**
+<p>
+  <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gazebo-FF8C00?style=for-the-badge&logo=gazebo&logoColor=white" />
+</p>
+
+**🧠 Machine Learning & Deep Learning**
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-189FDD?style=for-the-badge&logo=xgboost&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+**👁️ Computer Vision**
+<p>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" />
+  <img src="https://img.shields.io/badge/MediaPipe-049EEA?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/TorchVision-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pillow-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+**🧰 Tools & Development**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+*   **🤖 ROS 2 Obstacle Avoidance Bot**
+    *   Autonomous mobile robot simulation built using ROS 2 and Gazebo. Implements LiDAR-based obstacle avoidance with custom URDF modeling and ROS-Gazebo sensor integration.
+    *   *Tech: ROS 2 · Gazebo · Python · LiDAR · URDF*
+*   **🧠 Code-Grade**
+    *   AI-powered code evaluation platform designed to analyze programming submissions and provide automated feedback using LLM-based analysis.
+    *   *Tech: Python · LLMs · Prompt Engineering · Code Analysis*
+*   **👁️ Vehicle Speed Detection**
+    *   Real-time computer vision system that detects and tracks vehicles in video streams and estimates their speed using calibrated motion analysis.
+    *   *Tech: YOLO · OpenCV · Python · Object Tracking*
+*   **✋ Gesture Volume Control**
+    *   Touchless computer interaction system using MediaPipe hand landmarks to control system volume through real-time hand gestures.
+    *   *Tech: OpenCV · MediaPipe · Python · PyCaw*
+*   **💳 Credit Card Fraud Detection**
+    *   Machine learning pipeline for detecting fraudulent transactions under severe class imbalance using ensemble-based classification techniques and evaluation metrics such as ROC-AUC and F1-score.
+    *   *Tech: scikit-learn · XGBoost · Pandas · Machine Learning*
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Idhant-Mehta&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Idhant-Mehta&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</p>
+
+---
+
+## 🎯 Current Focus & Learning
+
+**Current Focus:**
+- [x] ROS 2 & Gazebo — Robotics simulation and autonomous navigation
+- [x] Computer Vision — Object detection and real-time tracking
+- [ ] Machine Learning — Advanced ML models and GPU-accelerated workflows
+- [ ] Generative AI — RAG systems, LLM applications and AI agents
+- [ ] Reinforcement Learning — Simulation-based robotic control
+- [ ] Advanced Deep Learning — Building and deploying complex vision models
+
+**Learning Path:**
+`Machine Learning` → `Deep Learning` → `Computer Vision` → `Generative AI` → `Autonomous Robotics` → `Reinforcement Learning`
+
+---
+<p align="center">
+  <b>Learn • Build • Experiment • Deploy</b>
+</p>
