@@ -17,7 +17,11 @@
   </a>
   <a href="https://github.com/Idhant-Mehta">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-
+  </a>
+  <a href="https://resume-website-kappa-sable.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=appveyor&logoColor=white" alt="Website"/>
+  </a>
+</p>
 
 </div>
 
@@ -30,8 +34,6 @@ I'm a **Robotics & Artificial Intelligence Engineering student** interested in b
 I enjoy turning ideas into working systems — from training ML models and building computer vision pipelines to developing **ROS 2 robotic simulations** and AI-powered applications.
 
 Currently, I'm focused on strengthening my skills in **Machine Learning, Deep Learning, Computer Vision, Generative AI, and Autonomous Robotics**.
-
-
 
 ---
 
@@ -123,8 +125,8 @@ Currently, I'm focused on strengthening my skills in **Machine Learning, Deep Le
 ## 🎯 Current Focus & Learning
 
 **Current Focus:**
-- [x] ROS 2 & Gazebo — Robotics simulation and autonomous navigation
-- [x] Computer Vision — Object detection and real-time tracking
+- [ ] ROS 2 & Gazebo — Robotics simulation and autonomous navigation
+- [ ] Computer Vision — Object detection and real-time tracking
 - [ ] Machine Learning — Advanced ML models and GPU-accelerated workflows
 - [ ] Generative AI — RAG systems, LLM applications and AI agents
 - [ ] Reinforcement Learning — Simulation-based robotic control
