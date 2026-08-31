@@ -29,7 +29,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a 20-year-old **Robotics & Artificial Intelligence Engineering student** interested in building intelligent systems using **Machine Learning, Deep Learning, Computer Vision, Generative AI, and Robotics**.
+I'm a  **Robotics & Artificial Intelligence Engineering student** interested in building intelligent systems using **Machine Learning, Deep Learning, Computer Vision, Generative AI, and Robotics**.
 
 I enjoy turning ideas into working systems — from training ML models and building computer vision pipelines to developing **ROS 2 robotic simulations** and AI-powered applications.
 
