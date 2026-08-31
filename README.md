@@ -84,16 +84,6 @@ Currently, I'm focused on strengthening my skills in **Machine Learning, Deep Le
   <img src="https://img.shields.io/badge/TorchVision-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Pillow-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
-
-**🧰 Tools & Web Development**
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-</p>
-
 ---
 
 ## 🚀 Featured Projects
@@ -139,10 +129,3 @@ Currently, I'm focused on strengthening my skills in **Machine Learning, Deep Le
 - [ ] Reinforcement Learning — Simulation-based robotic control
 - [ ] Advanced Deep Learning — Building and deploying complex vision models
 
-**Learning Path:**
-`Machine Learning` → `Deep Learning` → `Computer Vision` → `Generative AI` → `Autonomous Robotics` → `Reinforcement Learning`
-
----
-<p align="center">
-  <b>Learn • Build • Experiment • Deploy</b>
-</p>
