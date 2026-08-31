@@ -29,7 +29,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Robotics & Artificial Intelligence Engineering student** interested in building intelligent systems using **Machine Learning, Deep Learning, Computer Vision, Generative AI, and Robotics**.
+I'm a 20-year-old **Robotics & Artificial Intelligence Engineering student** interested in building intelligent systems using **Machine Learning, Deep Learning, Computer Vision, Generative AI, and Robotics**.
 
 I enjoy turning ideas into working systems — from training ML models and building computer vision pipelines to developing **ROS 2 robotic simulations** and AI-powered applications.
 
@@ -54,6 +54,7 @@ Currently, I'm focused on strengthening my skills in **Machine Learning, Deep Le
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 **🤖 Robotics & Simulation**
@@ -84,11 +85,13 @@ Currently, I'm focused on strengthening my skills in **Machine Learning, Deep Le
   <img src="https://img.shields.io/badge/Pillow-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-**🧰 Tools & Development**
+**🧰 Tools & Web Development**
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 </p>
 
 ---
@@ -99,8 +102,8 @@ Currently, I'm focused on strengthening my skills in **Machine Learning, Deep Le
     *   Autonomous mobile robot simulation built using ROS 2 and Gazebo. Implements LiDAR-based obstacle avoidance with custom URDF modeling and ROS-Gazebo sensor integration.
     *   *Tech: ROS 2 · Gazebo · Python · LiDAR · URDF*
 *   **🧠 Code-Grade**
-    *   AI-powered code evaluation platform designed to analyze programming submissions and provide automated feedback using LLM-based analysis.
-    *   *Tech: Python · LLMs · Prompt Engineering · Code Analysis*
+    *   AI-powered coding assessment platform integrating Google Gemini to analyze programming submissions and provide automated feedback.
+    *   *Tech: Google Gemini · React · TypeScript · Express · Supabase*
 *   **👁️ Vehicle Speed Detection**
     *   Real-time computer vision system that detects and tracks vehicles in video streams and estimates their speed using calibrated motion analysis.
     *   *Tech: YOLO · OpenCV · Python · Object Tracking*
@@ -109,11 +112,15 @@ Currently, I'm focused on strengthening my skills in **Machine Learning, Deep Le
     *   *Tech: OpenCV · MediaPipe · Python · PyCaw*
 *   **💳 Credit Card Fraud Detection**
     *   Machine learning pipeline for detecting fraudulent transactions under severe class imbalance using ensemble-based classification techniques and evaluation metrics such as ROC-AUC and F1-score.
-    *   *Tech: scikit-learn · XGBoost · Pandas · Machine Learning*
+    *   *Tech: scikit-learn · XGBoost · Pandas · SMOTE*
 
 ---
 
 ## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Idhant-Mehta&base=300" alt="Profile Views" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Idhant-Mehta&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
