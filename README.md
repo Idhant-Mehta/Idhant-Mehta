@@ -86,25 +86,6 @@ Currently, I'm focused on strengthening my skills in **Machine Learning, Deep Le
 </p>
 ---
 
-## 🚀 Featured Projects
-
-*   **🤖 ROS 2 Obstacle Avoidance Bot**
-    *   Autonomous mobile robot simulation built using ROS 2 and Gazebo. Implements LiDAR-based obstacle avoidance with custom URDF modeling and ROS-Gazebo sensor integration.
-    *   *Tech: ROS 2 · Gazebo · Python · LiDAR · URDF*
-*   **🧠 Code-Grade**
-    *   AI-powered coding assessment platform integrating Google Gemini to analyze programming submissions and provide automated feedback.
-    *   *Tech: Google Gemini · React · TypeScript · Express · Supabase*
-*   **👁️ Vehicle Speed Detection**
-    *   Real-time computer vision system that detects and tracks vehicles in video streams and estimates their speed using calibrated motion analysis.
-    *   *Tech: YOLO · OpenCV · Python · Object Tracking*
-*   **✋ Gesture Volume Control**
-    *   Touchless computer interaction system using MediaPipe hand landmarks to control system volume through real-time hand gestures.
-    *   *Tech: OpenCV · MediaPipe · Python · PyCaw*
-*   **💳 Credit Card Fraud Detection**
-    *   Machine learning pipeline for detecting fraudulent transactions under severe class imbalance using ensemble-based classification techniques and evaluation metrics such as ROC-AUC and F1-score.
-    *   *Tech: scikit-learn · XGBoost · Pandas · SMOTE*
-
----
 
 ## 📊 GitHub Statistics
 
